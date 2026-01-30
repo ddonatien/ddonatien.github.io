@@ -33,6 +33,8 @@ If your are interested in my work, feel free to contact me via LinkedIn.
 
 [Disentangling perception and reasoning for improving data efficiency in learning cloth manipulation without demonstrations](https://arxiv.org/abs/2601.21713), **Donatien Delehelle**, Fei Chen, Darwin G. Caldwell, **arxiv 2026**
 
+[Advanced garment modeling for object-centric assistive dressing policies](https://www.researchgate.net/publication/399911338_Advanced_garment_modeling_for_object-centric_assistive_dressing_policies), **Donatien Delehelle**, **Thesis**
+
 [Learning Robot Dynamic Cloth Manipulation Based on Differentiable Dynamics Optimization and Motion Transfer](https://ieeexplore.ieee.org/document/11236994), Hengyi Sim, Junjia Liu, **Donatien Delehelle**, Xingyu Wu, Darwin G. Caldwell, Fei Chen, **TETCI 2026**
 
 [MiXR-Intent: Intention Prediction for Immersive Remote Encountered-Type Haptics](https://telepresence.ieee.org), Natnael Berhanu Takele, **Donatien Delehelle**, Kim Yaesol, Sara Anastasi, Nikhil Deshpande, Jesus Ortiz, Darwin G. Caldwell, Carmine Tommaso Recchiuto, Yonas Tefera, **IEEE conference on Teleoperation 2025**
