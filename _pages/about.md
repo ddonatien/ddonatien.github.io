@@ -39,7 +39,7 @@ If your are interested in my work, feel free to contact me via LinkedIn of e-mai
 
 [From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations](https://arxiv.org/abs/2509.23555v1), Javed Ahmad, Penggang Gao, **Donatien Delehelle**, Mennuti Canio, Nikhil Deshpande, Jesús Ortiz, Darwin G. Caldwell, Yonas Teodros Tefera, **arxiv 2025**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024</div><img src='images/garfield.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields](https://ieeexplore.ieee.org/abstract/document/10907327)
