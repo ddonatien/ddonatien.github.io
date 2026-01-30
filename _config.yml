@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Donatien Delehelle Homepage"
-description              : "Personnal homepage of Dr. Donatien Delehelle"
+description              : ""
 repository               : "ddonatien/ddonatien.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Donatien Delehelle"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD @ University of Genoa/IIT<br>Robotics<br><br>MSc @ Centrale<br>Data science"
+  bio              : "PhD in Robotics<br><br>MSc in Data science"
   location         : "Genova, Italy"
   employer         :
   pubmed           : 
