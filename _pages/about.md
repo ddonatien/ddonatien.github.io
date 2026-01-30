@@ -19,34 +19,32 @@ redirect_from:
 
 I am a scientific researcher in robotics. My current focus is on the perception and manipulation of deformable objects such as garments. My work is situated at the intersection between differentiable geometry and deep learning.
 
-I have obtained my PhD from the University of Genova and the Italian Institute of Technology in 2025.
+I have obtained my PhD from the University of Genoa and the Italian Institute of Technology in 2025 under the supervision of Prof. Darwin Caldwell and Dr. Fei Chen.
 
-If your are interested in my work, feel free to contact me via LinkedIn of Email.
+If your are interested in my work, feel free to contact me via LinkedIn of e-mail.
 
 
-[//]: # (# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.) 
+# 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Published a pre-print on [arxiv](https://arxiv.org/abs/2601.21713)🔗 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+[Learning Robot Dynamic Cloth Manipulation Based on Differentiable Dynamics Optimization and Motion Transfer](https://ieeexplore.ieee.org/document/11236994), Hengyi Sim, Junjia Liu, **Donatien Delehelle**, Xingyu Wu, Darwin G. Caldwell, Fei Chen, **TETCI 2026**
+
+
+[MiXR-Intent: Intention Prediction for Immersive Remote Encountered-Type Haptics](https://telepresence.ieee.org), Natnael Berhanu Takele, **Donatien Delehelle**, Kim Yaesol, Sara Anastasi, Nikhil Deshpande, Jesus Ortiz, Darwin G. Caldwell, Carmine Tommaso Recchiuto, Yonas Tefera, **TETCI 2026**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields](https://ieeexplore.ieee.org/abstract/document/10907327)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Donatien Delehelle**, Darwin G. Caldwell, Fei Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://ddonatien.github.io/garfield-website/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
