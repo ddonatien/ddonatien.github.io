@@ -22,7 +22,7 @@ I am a scientific researcher in robotics. My current focus is on the perception 
 
 I have obtained my PhD from the University of Genoa and the Italian Institute of Technology in 2025 under the supervision of Prof. Darwin Caldwell and Dr. Fei Chen.
 
-If your are interested in my work, feel free to contact me via LinkedIn of e-mail.
+If your are interested in my work, feel free to contact me via LinkedIn.
 
 
 # 🔥 News
