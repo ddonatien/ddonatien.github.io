@@ -56,7 +56,7 @@ If your are interested in my work, feel free to contact me via LinkedIn of e-mai
 
 - **2016–2019** — _Private Tutor_ (Mathematics, Physics)
 
-# 💻 Open-Source Contributions & Personnal Projects
+# 💻 Open-Source Contributions & Personal Projects
 - [Rofunc: The full process python package for robot learning from demonstration and robot manipulation](https://github.com/Skylark0924/Rofunc)
 
 # 💬 Conference Abstracts & Invited Talks
