@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#who-am-i"
 
   - title: "News"
     url: "/#-news"
@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Academic Supervision & Teaching"
+    url: "/#-academic-supervision-&-teaching"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Open-Source Contributions & Personal Projects"
+    url: "/#-open-source-contributions-&-personal-projects"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-conference-abstracts-&-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Education"
+    url: "/#-education"

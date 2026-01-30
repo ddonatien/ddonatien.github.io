@@ -67,6 +67,6 @@ If your are interested in my work, feel free to contact me via LinkedIn.
 
 *Assistive Robotic System for Dressing through Learning by Demonstration*, Donatien Delehelle,Fei Chen,Darwin G. Caldwell, **IROS 2022 Workshop SCIAR**
 
-# 📖 Educations
+# 📖 Education
 - *2025*, PhD in Robotics, University of Genoa and Italian Institute of Technology
 - *2020*, MSc in Data Science, Centrale Lyon 
