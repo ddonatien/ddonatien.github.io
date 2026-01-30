@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Academic Supervision & Teaching"
-    url: "/#-academic-supervision-&-teaching"
+  - title: "Academic Supervision"
+    url: "/#-academic-supervision--teaching"
 
-  - title: "Open-Source Contributions & Personal Projects"
-    url: "/#-open-source-contributions-&-personal-projects"
+  - title: "Open-Source Contributions"
+    url: "/#-open-source-contributions--personal-projects"
 
   - title: "Invited Talks"
-    url: "/#-conference-abstracts-&-invited-talks"
+    url: "/#-conference-abstracts--invited-talks"
 
   - title: "Education"
     url: "/#-education"
