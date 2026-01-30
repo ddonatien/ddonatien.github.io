@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Donatien Delehelle"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Dr. Donatien Delehelle is a researcher in computer science with a focus on artificial intelligence and machine learning. MSc in Data Science from Centrale Lyon, PhD in Robotics from University of Genoa and Istituto Italiano di Tecnologia."
+  bio              : "PhD in Robotics @ University of Genoa/IIT<br><br>MSc in Data Science @ Centrale"
   location         : "Genova, Italy"
   employer         :
   pubmed           : 
