@@ -54,7 +54,7 @@ If your are interested in my work, feel free to contact me via LinkedIn.
 
 # 🎓 Academic Supervision & Teaching
 - **2024–2025** — _MSc Project Co-supervisor_ (1 MSc these), Italian Institute of Technology
-  - Topics: teleopertion, intent prediction, haptics
+  - Topics: teleoperation, intent prediction, haptics
 
 - **2016–2019** — _Private Tutor_ (Mathematics, Physics)
 
