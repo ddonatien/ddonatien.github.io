@@ -65,7 +65,7 @@ If your are interested in my work, feel free to contact me via LinkedIn.
 
 [MiXR-Interact: Mixed Reality Interaction Dataset for Gaze, Hand, and Body](https://openreview.net/forum?id=ssIR7qGfOw), Natnael Berhanu Takele, **Donatien Delehelle**, Yaesol Kim, Yonas Teodros Tefera, Nikhil Deshpande, Darwin G Caldwell, Jesus Ortiz, Carmine Tommaso Recchiuto, **HRI 2025 Workshop VAM**
 
-*Assistive Robotic System for Dressing through Learning by Demonstration*, Donatien Delehelle,Fei Chen,Darwin G. Caldwell, **IROS 2022 Workshop SCIAR**
+*Assistive Robotic System for Dressing through Learning by Demonstration*, Donatien Delehelle, Fei Chen, Darwin G. Caldwell, **IROS 2022 Workshop SCIAR**
 
 # 📖 Education
 - *2025*, PhD in Robotics, University of Genoa and Italian Institute of Technology
