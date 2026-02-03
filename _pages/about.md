@@ -19,10 +19,12 @@ redirect_from:
 
 # Who am I?
 I am a scientific researcher in robotics. My current focus is on the perception and manipulation of deformable objects such as garments. My work is situated at the intersection between differentiable geometry and deep learning.
-
+<br>
 I have obtained my PhD from the University of Genoa and the Italian Institute of Technology in 2025 under the supervision of Prof. Darwin Caldwell and Dr. Fei Chen.
-
+<br>
 If your are interested in my work, feel free to contact me via LinkedIn.
+<br>
+Total citations: <strong><span class='show_paper_citations' data='Wx7yu50AAAAJ:2osOgNQ5qMEC'></span></strong>
 
 
 # 🔥 News
