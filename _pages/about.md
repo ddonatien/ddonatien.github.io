@@ -63,7 +63,7 @@ Total citations: <strong><span id='total_cit'></span></strong>
 
 # 💻 Open-Source Contributions & Personal Projects
 - [Rofunc: The full process python package for robot learning from demonstration and robot manipulation](https://github.com/Skylark0924/Rofunc)
-- [Open data dashboard | French Justice Open Data](https://github.com/ddonatien/donnees_justice)
+- [Open data dashboard - French Justice Open Data](https://github.com/ddonatien/donnees_justice)
 
 # 💬 Conference Abstracts & Invited Talks
 
