@@ -28,6 +28,7 @@ Total citations: <strong><span id='total_cit'></span></strong>
 
 
 # 🔥 News
+- *2026.02*: \[HOBBY\] New hobby project on [French adminstrative courts](https://ddonatien.github.io/donnees_justice/)🔗
 - *2026.02*: &nbsp;🎉🎉 Published a pre-print on [arxiv](https://arxiv.org/abs/2601.21713)🔗 
 
 
@@ -62,6 +63,7 @@ Total citations: <strong><span id='total_cit'></span></strong>
 
 # 💻 Open-Source Contributions & Personal Projects
 - [Rofunc: The full process python package for robot learning from demonstration and robot manipulation](https://github.com/Skylark0924/Rofunc)
+- [Open data dashboard | French Justice Open Data](https://github.com/ddonatien/donnees_justice)
 
 # 💬 Conference Abstracts & Invited Talks
 
