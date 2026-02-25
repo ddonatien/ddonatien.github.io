@@ -28,8 +28,8 @@ Total citations: <strong><span id='total_cit'></span></strong>
 
 
 # 🔥 News
-- *2026.03*: I am joining the PHI lab @ AI4I under [Dr. Rozo](https://leonelrozo.weebly.com)
-- *2026.02*: \[HOBBY\] New hobby project on [French adminstrative courts](https://ddonatien.github.io/donnees_justice/)🔗
+- *2026.03*: &nbsp;🎓 I am joining the PHI lab @ AI4I under [Dr. Rozo](https://leonelrozo.weebly.com)
+- *2026.02*: &nbsp;\[HOBBY\] New hobby project on [French adminstrative courts](https://ddonatien.github.io/donnees_justice/)🔗
 - *2026.02*: &nbsp;🎉🎉 Published a pre-print on [arxiv](https://arxiv.org/abs/2601.21713)🔗 
 
 
