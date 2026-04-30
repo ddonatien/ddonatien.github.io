@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Who am I?
-Currently employed as a post-doc at the AI4I institute in Torino, I am a scientific researcher in robotics. My current focus is on the perception and manipulation of deformable objects such as garments. My work is situated at the intersection between differentiable geometry and deep learning.
+Currently employed as a post-doc at the AI4I institute in Torino, I am a scientific researcher in robotics. My current focus is on world models and the transformer. My work is situated at the intersection between differentiable geometry and deep learning.
 
 I have obtained my PhD from the University of Genoa and the Italian Institute of Technology in 2025 under the supervision of Prof. Darwin Caldwell and Dr. Fei Chen.
 
